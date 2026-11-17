@@ -1,1 +1,1 @@
-# WikiHaven a
+# WikiHaven
